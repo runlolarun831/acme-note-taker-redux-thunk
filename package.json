@@ -1,0 +1,27 @@
+{
+  "name": "acme-note-taker-redux-thunk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/runlolarun831/acme-note-taker-redux-thunk.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/runlolarun831/acme-note-taker-redux-thunk/issues"
+  },
+  "homepage": "https://github.com/runlolarun831/acme-note-taker-redux-thunk#readme",
+  "dependencies": {
+    "react-redux": "^7.1.1",
+    "redux": "^4.0.4"
+  },
+  "devDependencies": {
+    "redux-thunk": "^2.3.0"
+  }
+}
